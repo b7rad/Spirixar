@@ -1,0 +1,2 @@
+# Spirixar
+Spirixar- Openai GPT
